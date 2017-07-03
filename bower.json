@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
       "type": "git",
-      "url": "git://github.com/mckayb/purscript-airconsole-view-manager.git"
+      "url": "git://github.com/mckayb/purescript-airconsole-view-manager.git"
   },
   "ignore": [
     "**/.*",
